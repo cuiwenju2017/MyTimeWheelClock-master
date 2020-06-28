@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
 
 //        Log.i("Calendar_years", "-" + year);
 //        Log.i("Calendar_month", "-" + month);
-        Log.i("Calendar_week", "-" + week);
+//        Log.i("Calendar_week", "-" + week);
 //        Log.i("Calendar_day", "-" + day);
 //        Log.i("Calendar_hours", "-" + hours);
 //        Log.i("Calendar_minutes", "-" + minutes);
