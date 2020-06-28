@@ -224,7 +224,6 @@ public class AutoRotateHoursView extends View {
         }
     };
 
-
     /**
      * 画小时 数字
      *
@@ -268,7 +267,6 @@ public class AutoRotateHoursView extends View {
         return textBound.width();
     }
 
-
     /**
      * 画圆圈
      *
@@ -282,7 +280,6 @@ public class AutoRotateHoursView extends View {
         mPaint.setTextSize(textSize);
         canvas.drawCircle(getWidth() / 2, getHeight() / 2, circleRadius, mPaint);
     }
-
 
     /**
      * 画圆心
@@ -299,6 +296,5 @@ public class AutoRotateHoursView extends View {
             canvas.drawCircle(getWidth() / 2, getHeight() / 2, centerPointRadiu, mPaint);
         }
     }
-
 
 }

@@ -298,7 +298,6 @@ public class AutoRotateDayView extends View {
         canvas.drawCircle(getWidth() / 2, getHeight() / 2, circleRadius, mPaint);
     }
 
-
     /**
      * 画圆心
      *
